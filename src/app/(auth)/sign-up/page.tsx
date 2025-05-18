@@ -104,7 +104,7 @@ export default function SignUpForm() {
         <div className="w-full max-w-md p-8 space-y-8 bg-white dark:bg-gray-800 rounded-lg shadow-md">
           <div className="text-center">
             <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl mb-6 text-gray-900 dark:text-white">
-              Join Mstry Feedback
+              Join Mystery Feedback
             </h1>
             <p className="mb-4 text-gray-600 dark:text-gray-300">
               Sign up to start your anonymous adventure

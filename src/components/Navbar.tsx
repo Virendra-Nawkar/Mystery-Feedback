@@ -41,7 +41,7 @@
 //     <nav className="p-4 md:p-4 shadow-md bg-white text-black dark:bg-gray-900 dark:text-white">
 //       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
 //         <Link href="/" className="text-xl font-bold mb-4 md:mb-0">
-//           Mstry Feedback
+//           Mystery Feedback
 //         </Link>
 
 //         <div className="flex items-center gap-3">
@@ -132,10 +132,10 @@ function Navbar() {
   const handleLinkClick = () => setMenuOpen(false);
 
   return (
-    <nav className="p-4 shadow-md bg-white text-black dark:bg-gray-900 dark:text-white fixed w-full top-0 z-10">
+    <nav className="p-4 shadow-md bg-white text-black dark:bg-gray-900 dark:text-white fixed w-full top-0 z-10 border-b-2">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-xl font-bold whitespace-nowrap">
-          Mstry Feedback 
+          Mystery Feedback
         </Link>
 
         {/* Desktop Menu */}
@@ -237,7 +237,6 @@ function Navbar() {
           )}
         </div>
       )}
-      <Separator className="mt-2" />
     </nav>
   );
 }

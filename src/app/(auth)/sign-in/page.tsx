@@ -68,7 +68,7 @@ export default function SignInForm() {
         <div className="w-full max-w-md p-8 space-y-8 bg-white dark:bg-gray-800 rounded-lg shadow-md dark:shadow-lg transition-colors">
           <div className="text-center">
             <h1 className="text-4xl font-extrabold tracking-tight lg:text-5xl mb-6 text-gray-900 dark:text-white">
-              Welcome Back to Mstry Feedback
+              Welcome Back to  Mystery Feedback
             </h1>
             <p className="mb-4 text-gray-600 dark:text-gray-300">
               Sign in to continue your secret conversations

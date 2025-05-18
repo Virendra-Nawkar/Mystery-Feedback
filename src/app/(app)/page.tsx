@@ -86,11 +86,11 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-gray-100 text-gray-700 dark:bg-gray-900 dark:text-gray-300 py-6">
+      <footer className="bg-gray-100 text-gray-700 dark:bg-gray-900 dark:text-gray-300 p-4 mt-0">
         <div className="container mx-auto px-4 md:px-24">
-          <div className="border-t border-gray-300 dark:border-gray-800 mt-12 pt-8 text-sm flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
+          <div className="border-t border-gray-300 dark:border-gray-800  text-sm flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
             <div>
-              © {new Date().getFullYear()} Mstry Feedback. All rights reserved.
+              © {new Date().getFullYear()} Mystery Feedback. All rights reserved.
             </div>
 
             <div>
